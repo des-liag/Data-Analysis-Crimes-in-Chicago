@@ -1,0 +1,10 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="localhost.crimes"
+  DTS:DTSID="{95BD540A-93BD-4957-B7FC-06638DE72BFC}"
+  DTS:CreationName="ADO">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=localhost;Initial Catalog=crimes;Provider=SQLNCLI11.1;Integrated Security=SSPI;Auto Translate=False;Application Name=SSIS-crimesproject-{95BD540A-93BD-4957-B7FC-06638DE72BFC}localhost.crimes;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
